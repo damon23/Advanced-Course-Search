@@ -1,4 +1,4 @@
-<form name="search-fomr" action="<?php echo site_url().'/seminars-list/'; ?>" method="get">
+<form name="search-fomr" action="<?php echo site_url().'/parameters-file/'; ?>" method="get">
       <input type="text" name="seminar" placeholder="Search our seminars" class="seminars-input">
 <select name="category" class="category-select">
        <option value="">Category</option>
